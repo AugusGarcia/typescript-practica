@@ -10,6 +10,8 @@ class Producto {
   }
 }
 
+//hola
+
 class ProductoAlimenticio extends Producto {
   fechaCaducidad: Date;
   constructor(name, price, fechaCaducidad) {
